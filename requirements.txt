@@ -1,0 +1,2 @@
+python-evtx>=0.7.4
+pytest>=8.0.0
